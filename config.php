@@ -1,5 +1,5 @@
 <?php
 
-$channelAccessToken = 'CHANNEL ACCESS TOKEN';
+$channelAccessToken = '1HPXbzJBTQZh1YeAXLYoPZkWMohrxic4xxnA+HDJf5sDIzYyMVryBYcbrQ6ZzgQpbMUGvQuLN93BbUGli2dyAjL05ku53cmOL8n9IRGJaOSteGJdT4OQ37eiotyHhVZCWVLhrJlwSoTb3f8ZgOz3ZwdB04t89/1O/w1cDnyilFU=';
 
-$channelSecret = 'CHANNEL SECRET';
+$channelSecret = '0099d1f961035436491b81868957ec45';
